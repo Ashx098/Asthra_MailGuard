@@ -230,14 +230,16 @@ MIT License — use freely, build ethically.
 
 ---
 
+
 ## 🙌 Built by
 
 **[MSR Avinash](https://aviinashh-ai.vercel.app)**
-Founder, [Asthra AI](https://www.linkedin.com/posts/asthra-ai_s400-iadc-indiadefense-activity-7326349685760102401-ZzeA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADp2HGQBMpo4BdTrC0699wXsBF5aO4zGhyw)
+Founder, [Asthra AI]()
 
 > **Asthra AI** builds meaningful AI tools for real people — not just tech demos.
 > 🇮🇳 Built in India. For India. For the world.
 
+---
 
 ## 🔗 Tags
 
