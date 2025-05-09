@@ -141,14 +141,17 @@ $ python test_hybrid.py
 ### 📩 CLI Classifier in Action
 
 <p align="center">
-  <img src="assets/res1.png" width="600"/>
+  <img src="assets/res1.jpg" width="600"/>
 </p>
 
 ### 🤖 Fallback to Hermes3 (LLM) Output
 
+
+
 <p align="center">
-  <img src="assets/res2.png" width="600"/>
+  <img src="assets/res2.jpg" width="600"/>
 </p>
+
 
 ---
 
