@@ -222,7 +222,7 @@ MIT License — use freely, build ethically.
 ## 🙌 Built by
 
 **[MSR Avinash](https://aviinashh-ai.vercel.app)**
-Founder, [Asthra AI](https://asthra.vercel.app)
+Founder, [Asthra AI]()
 
 > **Asthra AI** builds meaningful AI tools for real people — not just tech demos.
 > 🇮🇳 Built in India. For India. For the world.
