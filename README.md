@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/asthra.jpg" width="600"/>
-</p>
-
-
 # 🛡️ Asthra MailGuard
 
 **Asthra MailGuard** is a **privacy-first, AI-powered command-line tool** that helps you classify, flag, and analyze emails — entirely on your local machine.
@@ -49,7 +44,8 @@ ASTHRA_MAILGUARD/
 ├── asthra-ui/                # React-based frontend (WIP)
 ├── node_modules/             # Node dependencies (ignored)
 ├── .env                      # Environment config
-└── README.md                 # Project documentation
+├── README.md                 # Project documentation
+└── assets/                   # Demo screenshots and logos
 ```
 
 ---
@@ -124,6 +120,38 @@ python test_hybrid.py
 
 ---
 
+## 🌍 Example CLI Session
+
+```bash
+$ python test_hybrid.py
+
+📩 Enter your email content:
+> "Congratulations! You've won a free iPhone..."
+
+📅 Prediction: Spam
+🤖 Reason: ML was 51% confident → fallback to Hermes3 → Detected phishing keywords + tone
+
+🧠 Action: Saved to log, learnable via feedback loop.
+```
+
+---
+
+## 🖼️ Demo Screenshots
+
+### 📩 CLI Classifier in Action
+
+<p align="center">
+  <img src="assets/res1.png" width="600"/>
+</p>
+
+### 🤖 Fallback to Hermes3 (LLM) Output
+
+<p align="center">
+  <img src="assets/res2.png" width="600"/>
+</p>
+
+---
+
 ## 📊 Datasets & Logs
 
 * **Input datasets**:
@@ -185,56 +213,16 @@ Pull requests, issues, and discussions are welcome!
 
 ---
 
-
----
-### 📦 Example CLI Session
-
-```bash
-$ python test_hybrid.py
-
-📩 Enter your email content:
-> "Congratulations! You've won a free iPhone..."
-
-✅ Prediction: Spam
-🤖 Reason: ML was 51% confident → fallback to Hermes3 → Detected phishing keywords + tone
-
-🧠 Action: Saved to log, learnable via feedback loop.
-
-## 🖼️ Demo Screenshots
-
-### 📩 CLI Classifier in Action
-
-<p align="center">
-  <img src="assets/res1.jpg" width="600"/>
-</p>
-
-### 🤖 Fallback to Hermes3 (LLM) Output
-
-<p align="center">
-  <img src="assets/res2.jpg" width="600"/>
-</p>
-
-
-## 🧩 Areas to Contribute
-✨ Frontend (React UI)
-
-🧠 ML/LLM Model Improvement
-
-🐛 Bug fixes
-
-📚 Docs & CLI improvements
-
 ## 📜 License
 
 MIT License — use freely, build ethically.
 
 ---
 
-
 ## 🙌 Built by
 
 **[MSR Avinash](https://aviinashh-ai.vercel.app)**
-Founder, [Asthra AI]()
+Founder, [Asthra AI](https://asthra.vercel.app)
 
 > **Asthra AI** builds meaningful AI tools for real people — not just tech demos.
 > 🇮🇳 Built in India. For India. For the world.
