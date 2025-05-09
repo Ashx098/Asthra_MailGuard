@@ -1,0 +1,23 @@
+{
+    "naukri.com": "job_alert",
+    "linkedin.com": "job_alert",
+    "coursera.org": "education",
+    "edx.org": "education",
+    "udemy.com": "education",
+    "freecodecamp.org": "education",
+    "kaggle.com": "education",
+    "nptel.iitm.ac.in": "education",
+    "medium.com": "education",
+    "mail.google.com": "message",
+    "facebook.com": "social",
+    "instagram.com": "social",
+    "flipkart.com": "promo",
+    "amazon.in": "promo",
+    "myntra.com": "promo",
+    "sbi.co.in": "financial",
+    "icicibank.com": "financial",
+    "axisbank.com": "financial",
+    "cbse.gov.in": "result_notification",
+    "examportal.com": "result_notification"
+  }
+  

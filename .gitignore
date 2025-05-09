@@ -1,0 +1,53 @@
+# 🔹 Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.ipynb_checkpoints
+*.log
+
+# 🔹 Jupyter
+.ipynb_checkpoints/
+
+# 🔹 Virtual environment
+asthra_mailguard_env/
+
+# 🔹 VSCode settings
+.vscode/
+
+# 🔹 Node.js / React files
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# 🔹 Sensitive configuration
+.env
+credentials.json
+token.json
+
+# 🔹 LLM / Model Files
+*.gguf
+*.bin
+*.pt
+*.ckpt
+models/
+cache/
+checkpoints/
+
+# 🔹 Misc system files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+*.orig

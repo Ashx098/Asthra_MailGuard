@@ -1,0 +1,27 @@
+timestamp,method,label,confidence,fallback_used,text_preview
+2025-04-06 14:21:09,ML,job_alert,0.619,False,You have a new job alert from Google. Backend Engineer role open now.     Apply before April 12
+2025-04-06 14:22:54,LLM,other,0.0,True,"Hi there, I just wanted to let you know about a quick update. Nothing urgent, just pinging in."
+2025-04-06 15:05:35,RULE,job_alert,1.0,False,You have a new job alert from Naukri. Apply to Google Cloud Engineer now!
+2025-04-06 15:09:06,LLM,message,0.0,True,"This is test mail, please reply asap! Important"
+2025-04-06 15:11:37,LLM,other,0.0,True,Your Temu order has been partially refunded (#PO-069-04638323149353216) with no need to return items
+2025-04-06 15:13:02,LLM,other,0.0,True,"Your invoice from Apple Super Chat 2,49$"
+2025-04-06 15:13:28,LLM,other,0.0,True,Your Temu order has been partially refunded (#PO-069-04638323149353216) with no need to return items
+2025-04-06 15:13:56,LLM,other,0.0,True,"Your invoice from Apple Super Chat 2,49$"
+2025-04-06 19:16:51,RULE,financial,1.0,False,Your Axis bank account was debited for ₹2000 at ATM.
+2025-04-06 19:18:07,RULE,financial,1.0,False,Your Axis bank account was debited for ₹2000 at ATM.
+2025-04-06 19:19:43,RULE,result_notification,1.0,False,Your Class 12 board results have been released.
+2025-04-06 19:22:39,LLM,other,0.0,True,you got 25% in 10th boards
+2025-04-06 19:28:19,BLOCKED,unknown,0.0,False,you got 25% in 10th boards
+2025-04-06 19:37:09,LLM,other,0.0,True,you got 25% in 10th boards
+2025-04-06 19:41:29,LLM,message,0.0,True,you got 25% in 10th boards
+2025-04-06 19:43:20,LLM,message,0.0,True,you got 25% in 10th boards
+2025-04-06 20:52:09,LLM,result_notification,0.0,True,you got 25% in 10th boards
+2025-04-06 20:58:07,BLOCKED,unknown,0.0,False,your account is credited iwth rs 200
+2025-04-18 17:25:10,LLM,job_alert,0.0,True,"Dear Student,We have carefully created a list of companies that are actively hiring for Freshers in"
+2025-04-18 17:26:35,LLM,job_alert,0.0,True,"Dear Student,We have carefully created a list of companies that are actively hiring for Freshers in"
+2025-04-18 17:27:57,ML,other,0.746,False,"Hi Avinash Mynampati,This is a gentle reminder that the idea submission deadline for VIKASYA 2025 is"
+2025-04-18 17:31:07,ML,other,0.684,False,"Dear SRIRANGANADHA AVINASH MYNAMPATI,Thank you for banking with us!Please find herewith your E-state"
+2025-05-09 11:00:35,RULE,job_alert,1.0,False,Corporate Web Solutions is hiring AI Intern
+2025-05-09 11:02:10,LLM,other,0.0,True,"CUDA ToolKit 12.9 Available now to download, this update includes math libraries updates"
+2025-05-09 11:04:05,LLM,job_alert,0.0,True,"Hello avinash, Ascentt is hiring now for -Software Engineer - python/react (5-10 yrs)"
+2025-05-09 11:08:40,BLOCKED,unknown,0.0,False,Your account is credited with rs 1000
