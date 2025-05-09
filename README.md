@@ -1,12 +1,23 @@
 # 🛡️ Asthra MailGuard
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/Ashx098/Asthra_MailGuard" alt="License" />
+  <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python Version" />
+  <img src="https://img.shields.io/badge/LLM-Hermes3%20via%20Ollama-purple" alt="LLM" />
+  <img src="https://img.shields.io/badge/Made%20in-%F0%9F%87%AE%F0%9F%87%B3-orange" alt="Made in India" />
+  <a href="https://github.com/Ashx098/Asthra_MailGuard/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contribute" />
+  </a>
+</p>
+
+
 **Asthra MailGuard** is a **privacy-first, AI-powered command-line tool** that helps you classify, flag, and analyze emails — entirely on your local machine.
 
 It uses a **self-learning hybrid engine** combining a fast Logistic Regression model with fallback to a powerful **Hermes 3 LLM** running via [Ollama](https://ollama.com).
 Whether it's spam, important, or promotional — MailGuard helps you decide, learn, and adapt over time.
 
 > ⚠️ This is an **alpha release** intended for testing, feedback, and collaborative improvements.
-> 🇮🇳 Built with purpose in India by [Asthra AI](https://asthra.vercel.app)
+> 🇮🇳 Built with purpose in India by [Asthra AI]
 
 ---
 
